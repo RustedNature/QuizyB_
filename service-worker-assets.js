@@ -809,7 +809,7 @@
       "url": "QuizyB.styles.css"
     },
     {
-      "hash": "sha256-WjzPW\/Xd17Ip0VzvbBjfnF8j4dFeGYIt4\/TWqyUr\/Nc=",
+      "hash": "sha256-FWmSRq1ORzngR5Cg+6y1WcMVHVY97B2aKF\/H+VmCMwQ=",
       "url": "css\/app.css"
     },
     {
@@ -849,5 +849,5 @@
       "url": "manifest.webmanifest"
     }
   ],
-  "version": "YkDOtPkK"
+  "version": "2Cs\/z1aL"
 };
